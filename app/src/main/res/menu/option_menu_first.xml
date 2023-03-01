@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="first_opt"
+    app:showAsAction="never"
+    android:icon="@drawable/home_24"
+    android:id="@+id/firstopt"></item>
+    <item
+        android:title="second_opt"
+        app:showAsAction="never"
+        android:icon="@drawable/home_24"
+        android:id="@+id/secondopt"></item>
+    <item
+        android:title="third opt"
+        app:showAsAction="never"
+        android:icon="@drawable/home_24"
+        android:id="@+id/thirdopt"></item>
+    <item
+        android:title="four opt"
+        app:showAsAction="never"
+        android:icon="@drawable/home_24"
+        android:id="@+id/fourthopt"></item>
+</menu>

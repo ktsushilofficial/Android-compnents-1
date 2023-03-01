@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages"
+        >
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hindi</item>
+    </string-array>
+
+    <string-array name="spineer1"
+        >
+        <item>Knock</item>
+        <item>Brok</item>
+        <item>Rock</item>
+        <item>Vrok</item>
+    </string-array>
+</resources>

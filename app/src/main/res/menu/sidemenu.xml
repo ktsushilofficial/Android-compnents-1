@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="home"
+            android:icon="@drawable/home_24"></item>
+        <item
+
+            android:id="@+id/settings"
+            android:title="settings"
+            android:icon="@drawable/settings_24"></item>
+        <item
+
+            android:id="@+id/inbox"
+            android:title="Inbox"
+            android:icon="@drawable/inbox_24"></item>
+        <item
+
+            android:id="@+id/Mail"
+            android:title="Mail"
+            android:icon="@drawable/inbox_24"></item>
+
+    </group>
+
+    <group
+        android:checkableBehavior="single">
+        <item
+
+            android:title="user Interface"
+            >
+            <menu>
+                <item
+                    android:id="@+id/user"
+                    android:title="my account"
+                    android:icon="@drawable/user_circle_24"></item>
+                <item
+                    android:id="@+id/signout"
+                    android:title="sign out"
+                    android:icon="@drawable/plus"></item>
+            </menu>
+
+        </item>
+    </group>
+
+</menu>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="RecylerView"
+    android:id="@+id/menuitemRecylerView"
+    android:icon="@drawable/home_24"></item>
+    <item android:title="MultiRecylerView"
+        android:id="@+id/menuitemMultiRecylerView"
+        android:icon="@drawable/home_24"></item>
+
+    <item android:title="TabBarOption"
+        android:id="@+id/menuitemTabBarOption"
+        android:icon="@drawable/home_24"></item>
+
+    <item android:title="BottomNavigationViewOption"
+        android:id="@+id/menuitemBottomNavigationViewOption"
+        android:icon="@drawable/home_24"></item>
+
+    <item android:title="SideDrawerEX"
+        android:id="@+id/menuitemSideDrawerEX"
+        android:icon="@drawable/home_24"></item>
+
+    <item android:title="Menu Different"
+        android:id="@+id/menuitemMenuDifferent"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="Switch Toggle radio check"
+        android:id="@+id/checkboxswitch"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="Fragment Activity communication"
+        android:id="@+id/fragcomact"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="spineer dropdown"
+        android:id="@+id/spindropdown"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="List View First Activity"
+        android:id="@+id/Listvwact"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="Grid View Activity"
+        android:id="@+id/gridviewact"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="Date time calender"
+        android:id="@+id/datecl"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="Alert Dialog"
+        android:id="@+id/alERTdiAG"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="EDIT TEXT ACTIVITY"
+        android:id="@+id/edittxtact"
+        android:icon="@drawable/home_24"></item>
+    <item android:title="Intent filter"
+    android:id="@+id/intentfil"
+    android:icon="@drawable/home_24"></item>
+
+</menu>
